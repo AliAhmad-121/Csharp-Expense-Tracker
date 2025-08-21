@@ -65,3 +65,13 @@ ExpenseTracker/
 ├── Form1.Designer.cs  # UI designer code
 ├── expenses.db        # SQLite database (auto-created)
 └── README.md          # Project description
+
+🔮 Future Improvements
+
+-Add summary labels (Total Income / Total Expense / Balance)
+
+-Export transactions to CSV/Excel
+
+-Add search & filters
+
+-Multi-language support
